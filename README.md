@@ -2,6 +2,6 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-INFO-2021/](https://ecored-sena.github.io/ECORED-BASE-INFO-2021/)
+[https://sena-externos.github.io/INFO_122301_GESTION_INTEGRAL_TALENTO_HUMANO/](https://sena-externos.github.io/INFO_122301_GESTION_INTEGRAL_TALENTO_HUMANO/)
 
 #
